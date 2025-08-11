@@ -50,6 +50,15 @@ It provides actionable insights into revenue trends, product performance, region
     ├── dataset/ # Data source files (if shareable)
     ├── screenshots/ # Dashboard preview images
     └── README.md # Project documentation
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard Overview]( https://github.com/MGHirushiThilakna/Sales-Analytics-Dashboard-Power-BI-/blob/main/Sceenshots/Sales%20Analytics%20Dashboard.PNG)
+
+![Product Performance]( https://github.com/MGHirushiThilakna/Sales-Analytics-Dashboard-Power-BI-/blob/main/Sceenshots/Sales%20Analytics%20Dashboard-%20with%20tooltip.png )
+
+---
     
 ## 🚀 How to Use
 1. **Download** the `.pbix` file from this repository
