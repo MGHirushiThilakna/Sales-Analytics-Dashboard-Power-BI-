@@ -54,9 +54,9 @@ It provides actionable insights into revenue trends, product performance, region
 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](Sceenshots/Sales Analytics Dashboard.PNG)
+![Dashboard Overview]( https://github.com/MGHirushiThilakna/Sales-Analytics-Dashboard-Power-BI-/blob/main/Sceenshots/Sales%20Analytics%20Dashboard.PNG)
 
-![Product Performance](Sceenshots/Sales Analytics Dashboard- with tooltip.png)
+![Product Performance]( https://github.com/MGHirushiThilakna/Sales-Analytics-Dashboard-Power-BI-/blob/main/Sceenshots/Sales%20Analytics%20Dashboard-%20with%20tooltip.png )
 
 ---
     
