@@ -55,6 +55,7 @@ It provides actionable insights into revenue trends, product performance, region
 ## 📷 Dashboard Preview
 
 ![Dashboard Overview](Sceenshots/Sales Analytics Dashboard.PNG)
+
 ![Product Performance](Sceenshots/Sales Analytics Dashboard- with tooltip.png)
 
 ---
